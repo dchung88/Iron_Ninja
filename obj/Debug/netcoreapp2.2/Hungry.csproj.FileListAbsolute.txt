@@ -1,0 +1,11 @@
+/Users/dennychung/Documents/Hungry/obj/Debug/netcoreapp2.2/Hungry.csprojAssemblyReference.cache
+/Users/dennychung/Documents/Hungry/obj/Debug/netcoreapp2.2/Hungry.csproj.CoreCompileInputs.cache
+/Users/dennychung/Documents/Hungry/obj/Debug/netcoreapp2.2/Hungry.AssemblyInfoInputs.cache
+/Users/dennychung/Documents/Hungry/obj/Debug/netcoreapp2.2/Hungry.AssemblyInfo.cs
+/Users/dennychung/Documents/Hungry/bin/Debug/netcoreapp2.2/Hungry.deps.json
+/Users/dennychung/Documents/Hungry/bin/Debug/netcoreapp2.2/Hungry.runtimeconfig.json
+/Users/dennychung/Documents/Hungry/bin/Debug/netcoreapp2.2/Hungry.runtimeconfig.dev.json
+/Users/dennychung/Documents/Hungry/bin/Debug/netcoreapp2.2/Hungry.dll
+/Users/dennychung/Documents/Hungry/bin/Debug/netcoreapp2.2/Hungry.pdb
+/Users/dennychung/Documents/Hungry/obj/Debug/netcoreapp2.2/Hungry.dll
+/Users/dennychung/Documents/Hungry/obj/Debug/netcoreapp2.2/Hungry.pdb
